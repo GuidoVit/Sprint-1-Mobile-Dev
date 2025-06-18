@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nome": "Sensor de Pressão",
+    "valorAtual": "5.2 bar",
+    "status": "OK"
+  },
+  {
+    "id": 2,
+    "nome": "Sensor de Fluxo",
+    "valorAtual": "12.4 L/min",
+    "status": "Alerta"
+  },
+  {
+    "id": 3,
+    "nome": "Sensor de Temperatura",
+    "valorAtual": "35°C",
+    "status": "OK"
+  }
+]
