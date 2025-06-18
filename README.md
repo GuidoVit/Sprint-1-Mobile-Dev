@@ -1,6 +1,6 @@
 # Sprint-2-Mobile-Dev
 
-##Integrantes
+Integrantes
 
 Arthur Colombo Cordeiro RM 551262
 João Felipe Ballet RM 550979
