@@ -38,17 +38,17 @@ const styles = StyleSheet.create({
   },
   subtitle: {
     fontSize: 16,
-    color: '#5C6BC0', // Azul intermediário
+    color: '#5C6BC0', // Azul 2
     marginBottom: 40,
     textAlign: 'center',
   },
   button: {
-    backgroundColor: '#1976D2', // Azul médio
+    backgroundColor: '#1976D2', // Azul 1
     paddingHorizontal: 30,
     paddingVertical: 15,
     borderRadius: 25,
-    elevation: 4, // Sombra no Android
-    shadowColor: '#000', // Sombra no iOS
+    elevation: 4, 
+    shadowColor: '#000', 
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.25,
     shadowRadius: 3.84,
